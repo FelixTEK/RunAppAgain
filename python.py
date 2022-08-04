@@ -12,6 +12,7 @@ def runagain():
     function()
   elif argument == "N":
     print("Bye.")
+    quit()
   else:
     print("Invalid response.")
     runagain()
